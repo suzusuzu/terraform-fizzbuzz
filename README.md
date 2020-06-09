@@ -2,6 +2,8 @@
 
 ## Usage
 
+Depend on Docker
+
 ```sh
 cd simple
 terraform apply -auto-approve
